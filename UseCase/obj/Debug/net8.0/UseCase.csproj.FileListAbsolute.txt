@@ -1,0 +1,15 @@
+D:\C#Ytb\TodoList\UseCase\bin\Debug\net8.0\UseCase.deps.json
+D:\C#Ytb\TodoList\UseCase\bin\Debug\net8.0\UseCase.dll
+D:\C#Ytb\TodoList\UseCase\bin\Debug\net8.0\UseCase.pdb
+D:\C#Ytb\TodoList\UseCase\bin\Debug\net8.0\Entity.dll
+D:\C#Ytb\TodoList\UseCase\bin\Debug\net8.0\Entity.pdb
+D:\C#Ytb\TodoList\UseCase\obj\Debug\net8.0\UseCase.csproj.AssemblyReference.cache
+D:\C#Ytb\TodoList\UseCase\obj\Debug\net8.0\UseCase.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#Ytb\TodoList\UseCase\obj\Debug\net8.0\UseCase.AssemblyInfoInputs.cache
+D:\C#Ytb\TodoList\UseCase\obj\Debug\net8.0\UseCase.AssemblyInfo.cs
+D:\C#Ytb\TodoList\UseCase\obj\Debug\net8.0\UseCase.csproj.CoreCompileInputs.cache
+D:\C#Ytb\TodoList\UseCase\obj\Debug\net8.0\UseCase.csproj.Up2Date
+D:\C#Ytb\TodoList\UseCase\obj\Debug\net8.0\UseCase.dll
+D:\C#Ytb\TodoList\UseCase\obj\Debug\net8.0\refint\UseCase.dll
+D:\C#Ytb\TodoList\UseCase\obj\Debug\net8.0\UseCase.pdb
+D:\C#Ytb\TodoList\UseCase\obj\Debug\net8.0\ref\UseCase.dll

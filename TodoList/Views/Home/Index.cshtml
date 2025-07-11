@@ -1,0 +1,29 @@
+﻿@model TodoListViewModel 
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">To Do</h1>
+    <ul style="list-style-type: none; padding: 0;">
+        @foreach(var item in @Model.Items)
+        {
+            <li style="display: flex; align-items: center; justify-content: center; margin-bottom: 10px; gap: 10px;">
+                <form asp-action="Complete" method="post" style="margin: 0;">
+                    <input type="hidden" name="id" value="@item.id"/>
+                    <input type="checkbox" onchange="this.form.submit()" @(item.isCompleted ? "checked" : "")/>
+                </form>
+
+                <span style="min-width: 200px; text-align: left; @(item.isCompleted ? "text-decoration: line-through; color: gray;" : "")">
+                    @item.text
+                </span>
+
+                <form asp-action="Delete" method="post" style="margin: 0;">
+                    <input type="hidden" name="id" value="@item.id" />
+                    <button type="submit" style="border: none; background-color: transparent; font-size: 16px;">❌</button>
+                </form>
+            </li>
+        }
+    </ul>
+    <a href="/Home/Add" class="btn btn-primary">Add</a>
+</div>

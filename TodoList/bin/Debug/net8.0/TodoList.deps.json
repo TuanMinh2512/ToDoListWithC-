@@ -1,0 +1,65 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "TodoList/1.0.0": {
+        "dependencies": {
+          "Entity": "1.0.0",
+          "Infrastructure": "1.0.0",
+          "UseCase": "1.0.0"
+        },
+        "runtime": {
+          "TodoList.dll": {}
+        }
+      },
+      "Entity/1.0.0": {
+        "runtime": {
+          "Entity.dll": {}
+        }
+      },
+      "Infrastructure/1.0.0": {
+        "dependencies": {
+          "Entity": "1.0.0",
+          "UseCase": "1.0.0"
+        },
+        "runtime": {
+          "Infrastructure.dll": {}
+        }
+      },
+      "UseCase/1.0.0": {
+        "dependencies": {
+          "Entity": "1.0.0"
+        },
+        "runtime": {
+          "UseCase.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TodoList/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Entity/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Infrastructure/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "UseCase/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

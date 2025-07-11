@@ -1,0 +1,11 @@
+D:\C#Ytb\TodoList\Entity\bin\Debug\net8.0\Entity.deps.json
+D:\C#Ytb\TodoList\Entity\bin\Debug\net8.0\Entity.dll
+D:\C#Ytb\TodoList\Entity\bin\Debug\net8.0\Entity.pdb
+D:\C#Ytb\TodoList\Entity\obj\Debug\net8.0\Entity.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#Ytb\TodoList\Entity\obj\Debug\net8.0\Entity.AssemblyInfoInputs.cache
+D:\C#Ytb\TodoList\Entity\obj\Debug\net8.0\Entity.AssemblyInfo.cs
+D:\C#Ytb\TodoList\Entity\obj\Debug\net8.0\Entity.csproj.CoreCompileInputs.cache
+D:\C#Ytb\TodoList\Entity\obj\Debug\net8.0\Entity.dll
+D:\C#Ytb\TodoList\Entity\obj\Debug\net8.0\refint\Entity.dll
+D:\C#Ytb\TodoList\Entity\obj\Debug\net8.0\Entity.pdb
+D:\C#Ytb\TodoList\Entity\obj\Debug\net8.0\ref\Entity.dll
